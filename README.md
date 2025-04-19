@@ -1,3 +1,20 @@
+## About 
+This is the backend for the E-commerce painting shop, built using Strapi, a headless CMS that manages products, categories, and orders. It provides a secure and flexible API consumed by the React frontend. Stripe is integrated for payment processing, enabling smooth and secure checkouts.
+
+✅ Highlights:
+
+📦 Product & category management via Strapi
+
+💳 Stripe payment processing
+
+🔐 Secure, RESTful API for frontend consumption
+
+🖼️ Ideal for a scalable, real-world E-commerce workflow
+
+
+
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
